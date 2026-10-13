@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
