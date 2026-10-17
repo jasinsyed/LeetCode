@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
