@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [2235-add-two-integers](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
