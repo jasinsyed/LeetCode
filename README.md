@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Quicksort
 |  |
@@ -81,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
