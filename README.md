@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
