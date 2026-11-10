@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
