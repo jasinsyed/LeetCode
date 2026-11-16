@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
