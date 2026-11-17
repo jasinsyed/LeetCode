@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Quicksort
 |  |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
