@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -82,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
