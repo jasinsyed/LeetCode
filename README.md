@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1470-shuffle-the-array](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jasinsyed/https-github.com-jasinsyed-LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
